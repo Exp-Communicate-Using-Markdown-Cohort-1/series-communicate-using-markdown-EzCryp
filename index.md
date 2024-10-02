@@ -1,9 +1,11 @@
-# This is header 1
+# This is Ezra Zacarias
 # Testing my new header
 ## testing my h2 header
 ### testing my h3 header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## this is octocat
 
 ```
 $ git init
